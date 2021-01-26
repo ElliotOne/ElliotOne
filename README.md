@@ -8,7 +8,7 @@ I'm passionate about technology in general...
 
 I've been working on my own startup. I have worked on my own digital agency website [Xant](https://xant.ir). I worked on many different websites, form wordpress to .Net !
 
-I use t learn different topics like software engineering, web development, etc, even machine learning and AI. I can say that I'm a generalist programmer how is specialist on .Net and JS world.
+I use to learn different topics like software engineering, web development, etc, even machine learning and AI. I can say that I'm a generalist programmer how is specialist on .Net and JS world.
 
 I love sharing my experience and I'm always ready to learn with others.
 
