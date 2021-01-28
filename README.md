@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=amzenterprise&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=amzenterprise&show_icons=true&theme=dracula)]
 
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amzenterprise&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amzenterprise&layout=compact&theme=dracula)]
 
 I'm passionate about technology in general...
 
