@@ -8,7 +8,7 @@
   👨‍💻 Senior software engineer, Software Architect and Consultant
 </p>
 <p>
-   🎈 .Net & JS
+   🎈 Working around .Net & JS stuff
 </p>
 <p>
   🛠 Learner and geek at <a href="https://monolearn.ir">Mono Learn</a>
