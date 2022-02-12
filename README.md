@@ -5,7 +5,7 @@
 
 ---
 <p>
-  👨‍💻 Senior software engineer, Software Architect and Consultant
+  👨‍💻 Full-stack software developer
 </p>
 <p>
    🎈 Working around .Net & JS stuff
