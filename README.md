@@ -18,7 +18,7 @@
 </p>
 
 <p>
-  Honestly, I'm a full stack developer with different experiences in various areas of computer science and programming, but still I prefer web development and mobile application development over other stuff!
+  Honestly, I'm a full stack developer with different experiences in various areas of computer science and programming, but still I prefer web development and mobile application development over other subject!
 </p>
 
 ---
