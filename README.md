@@ -8,10 +8,10 @@
   👨‍💻 Full-stack software developer
 </p>
 <p>
-   🎈 Working around .Net & JS stuff
+   🎈 Working with multiple languages and frameworks
 </p>
 <p>
-  🛠 Learner and geek at <a href="https://monolearn.ir">Mono Learn</a>
+  🛠 Programming tutor at <a href="https://monolearn.ir">Mono Learn</a>
 </p>
 <p>
   💻 Startup Admin
