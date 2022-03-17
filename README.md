@@ -5,16 +5,13 @@
 
 ---
 <p>
-  👨‍💻 Full-stack software developer
+  👨‍💻 Full stack software developer
 </p>
 <p>
    🎈 Working with multiple languages and frameworks
 </p>
 <p>
   🛠 Programming tutor at <a href="https://monolearn.ir">Mono Learn</a>
-</p>
-<p>
-  💻 Startup Admin
 </p>
 <p>
   👨‍💼 Business owner at <a href="https://xant.ir">Xant</a>
