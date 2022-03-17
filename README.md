@@ -21,6 +21,15 @@
 </p>
 
 ---
+Technical stuff:
+
+Programming languages : C# - JavaScript - TypeScript - Python - Dart
+Platforms : Desktop - Web - Mobile
+Web Technologies : Vue js - React - ASP.Net Core - Blazor.Net
+Main development : Web development (Full stack development)
+
+Miscellaneous: Practical knowledge of developing machine-learning based applications (web/mobile), Clean Code, Software architectures, Design Patterns
+---
 
 💬 You can also contact me at:
 
@@ -28,3 +37,5 @@
 - [LinkedIn](https://www.linkedin.com/in/amzenterprise/)
 - [Instagram](https://www.instagram.com/monolearn.ir/)
 - [Telegram](https://www.t.me/AMZEnterprise/)
+
+_ If you have any questions or any requests feel free to message me. I'm looking forward to make new friends!
