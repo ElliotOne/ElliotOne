@@ -35,9 +35,7 @@ Technical stuff:
 Miscellaneous:
 </h3>
 <ul>
-<li>Practical knowledge of developing machine-learning based applications (web/mobile)</li>
-<li>Clean Code, Software architectures, Design Patterns</li>
-<li>Also I can learn almost any new technology in no time!</li>
+<li>Clean Code, Software architectures, Design Patterns, Software testing</li>
 </ul>
 
 ---
