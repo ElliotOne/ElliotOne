@@ -27,16 +27,16 @@
 Technical skills:
 </h3>
 <ul>
-<li><h4>Programming languages:</h4> C# - JavaScript - TypeScript - Python - Dart</li>
+<li><h4>Programming languages:</h4> C# - JavaScript - TypeScript</li>
 <li><h4>Platforms:</h4> Desktop - Web - Mobile</li>
-<li><h4>Web Technologies:</h4> Vue js - React - ASP.Net Core - Blazor.Net</li>
-<li><h4>Main development:</h4> Web development (Full stack development)</li>
+<li><h4>Web Technologies:</h4> Angular - React - ASP.Net Core - Blazor.Net</li>
+<li><h4>Main development stack:</h4> Full Stack Web Development</li>
 </ul>
 <h3>
 Miscellaneous:
 </h3>
 <ul>
-<li>Clean Code, Software architectures, Design Patterns, Software testing</li>
+<li>Clean Code, Software Architectures, Design Patterns, Software Testing</li>
 </ul>
 
 ---
