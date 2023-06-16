@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ali Momenzadeh 👋</h1>
+<h1 align="center">👋 Hi there, I'm Ali Momenzadeh</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amzenterprise&show_icons=true&theme=radical)
 <br/>
