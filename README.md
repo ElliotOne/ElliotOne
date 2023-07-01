@@ -6,7 +6,7 @@
 
 ---
 <p>
-  👨‍💻 Full stack software engineer
+  👨‍💻 Full Stack Software Engineer
 </p>
 <p>
    🎈 Working with multiple languages and frameworks
@@ -19,7 +19,7 @@
 </p>
 
 <p>
-  I'm a full stack software engineer. I like developing websites and applications. I mostly work with .NetCore and JavaScript.
+  I'm a full-stack software engineer. I like developing websites and applications, primarily using .NET and JavaScript.
 </p>
 
 ---
