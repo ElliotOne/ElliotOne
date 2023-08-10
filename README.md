@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Ali Momenzadeh</h1>
+<h1 align="center">Ali Momenzadeh - AKA. Elliot</h1>
 <br />
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=amzenterprise&show_icons=true&theme=radical" />
