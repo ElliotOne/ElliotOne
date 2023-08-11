@@ -1,4 +1,6 @@
-<h1 align="center">Ali Momenzadeh - AKA. Elliot</h1>
+<h1 align="center">
+   Ali Momenzadeh - AKA. Elliot
+</h1>
 <br />
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=amzenterprise&show_icons=true&theme=radical" />
@@ -20,6 +22,7 @@
 <p>
   👨‍💼 Entrepreneur at <a href="https://github.com/Xant-IR">Xant</a>
 </p>
+<img src="https://komarev.com/ghpvc/?username=AMZEnterprise&color=dc143c" />
 
 ---
 <h3>
