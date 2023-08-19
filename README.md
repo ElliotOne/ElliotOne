@@ -1,5 +1,5 @@
 <h1 align="center">
-   Ali Momenzadeh - AKA. Elliot
+   Elliot One (AKA. Ali Momenzadeh) 
 </h1>
 <br />
 <div align="center">
