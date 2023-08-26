@@ -3,8 +3,8 @@
 </h1>
 <br />
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=amzenterprise&show_icons=true&theme=radical" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amzenterprise&layout=compact&theme=dracula" />
+   <img src="https://github-readme-stats.vercel.app/api?username=ElliotOne&show_icons=true&theme=radical" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElliotOne&layout=compact&theme=dracula" />
 </div>
 <br />
 
@@ -22,7 +22,7 @@
 <p>
   👨‍💼 Entrepreneur at <a href="https://github.com/Xant-IR">Xant</a>
 </p>
-<img src="https://komarev.com/ghpvc/?username=AMZEnterprise&color=dc143c" />
+<img src="https://komarev.com/ghpvc/?username=ElliotOne&color=dc143c" />
 
 ---
 <h3>
@@ -85,11 +85,11 @@ Miscellaneous
 </h3>
 <ul>
    <li>
-      <a href="https://www.linkedin.com/in/amzenterprise/">
+      <a href="https://www.linkedin.com/in/elliotone/">
          <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
    </li>
-   <li>
+<!--    <li>
       <a href="https://twitter.com/amzenterprise">
          <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
       </a>
@@ -98,11 +98,11 @@ Miscellaneous
       <a href="https://www.t.me/AMZEnterprise/">
          <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
       </a>
-   </li>
+   </li> -->
 </ul>
 
 ---
 
 <strong>
-   🚀 Should you have any questions or requests feel free to message me.
+   🚀 Should you have any questions or requests, feel free to message me.
 </strong>
