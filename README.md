@@ -17,10 +17,10 @@
    🎈 Working with multiple languages and frameworks
 </p>
 <p>
-  🛠 Programming tutor at <a href="https://github.com/Mono-Learn">Mono Learn</a>
+  🛠 Programming tutor at <a href="https://github.com/Mono-Learn">MonoLearn</a>
 </p>
 <p>
-  👨‍💼 Entrepreneur at <a href="https://github.com/Xant-IR">Xant</a>
+  👨‍💼 Software Engineer at <a href="https://github.com/Xant-IR">XANT</a>
 </p>
 <img src="https://komarev.com/ghpvc/?username=ElliotOne&color=dc143c" />
 
