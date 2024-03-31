@@ -88,7 +88,7 @@ Miscellaneous
       </a>
    </li>
    <li>
-      <a href="https://twitter.com/RealElliotOne">
+      <a href="https://twitter.com/elliot1one">
          <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
       </a>
    </li>
