@@ -2,7 +2,7 @@
    Elliot One
 </h1>
 <p align="center">
-   <b>Full Stack AI/ML Engineer | Founder @ XANT & MonoLearn</b>
+   <b>Full Stack AI/ML Engineer | Founder @ XANT & Monoversity</b>
 </p>
 <br />
 <div align="center">
